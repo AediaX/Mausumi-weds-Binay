@@ -1,0 +1,17 @@
+{
+  "name": "Mausumi Weds Binay",
+  "short_name": "Mausumi & Binay",
+  "description": "Wedding invitation, 12 and 13 December 2026",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#FAF6F0",
+  "theme_color": "#C94F6D",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
